@@ -3105,25 +3105,25 @@ background-color: rgba(255,255,255,0.12)!important;
 #cbi-AdGuardHome-AdGuardHome-escconf, #cbi-netspeedtest>fieldset>fieldset>div, .Software>fieldset>fieldset>div, .vue-form-render .cbi-section .cbi-section-node .cbi-value, #cbi-AdGuardHome >.main .cbi-section-node .cbi-value,  {
 	display: inline-block;
 }
-#cbi-openclash .CodeMirror.cm-s-idea.CodeMirror-wrap {
+#cbi-mihomo .CodeMirror.cm-s-idea.CodeMirror-wrap {
     background: rgba(0,0,0,0.1)!important;
     color: var(--body-color)!important;
 }
-#cbi-openclash .cbi-section>div>ul>li {
+#cbi-mihomo .cbi-section>div>ul>li {
     width: auto!important;
     padding: 0rem 0.5rem!important;
 
 }
 
-#cbi-openclash .CodeMirror-merge,#cbi-openclash .CodeMirror-merge-2pane {
+#cbi-mihomo .CodeMirror-merge,#cbi-mihomo .CodeMirror-merge-2pane {
     height: auto!important;
     border: none!important
 }
-#cbi-openclash .cm-s-idea span.cm-variable {
+#cbi-mihomo .cm-s-idea span.cm-variable {
     color: #fd8c73!important;
 }
 
-#cbi-openclash .CodeMirror-scroll>.CodeMirror-gutters {
+#cbi-mihomo .CodeMirror-scroll>.CodeMirror-gutters {
     background-color: rgba(255,255,255,0.1)!important;
     border-right: 1px solid #777!important;
 }

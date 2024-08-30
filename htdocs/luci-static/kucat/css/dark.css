@@ -683,20 +683,20 @@ background-color: rgba(0,0,0,0.15)!important;
 }
 
 /* log */
-#cbi-openclash .CodeMirror.cm-s-idea.CodeMirror-wrap {
+#cbi-mihomo .CodeMirror.cm-s-idea.CodeMirror-wrap {
     background: rgba(0,0,0,0.1)!important;
     color: #adbcc9!important;
 }
 
 /* set modi file */
-#cbi-openclash .cm-s-material.CodeMirror
+#cbi-mihomo .cm-s-material.CodeMirror
 {
      background-color: #1b4c53!important;
      color: #31b9c1!important;
 }
 
 /*  card */
-#cbi-openclash .card
+#cbi-mihomo .card
 {
     background: linear-gradient(#337ab7, #a8bfcf)!important;
     box-shadow: 0 8px 16px -8px rgba(255,255,255,0.5)!important;
